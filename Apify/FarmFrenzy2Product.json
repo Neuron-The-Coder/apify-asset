@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Egg",
+    "image": "egg.png",
+    "description": "Type B Egg",
+    "price": 10
+  },
+  {
+    "name": "Dried Eggs",
+    "image": "dried_eggs.png",
+    "description": "Type B Dried Eggs",
+    "price": 40
+  },
+  {
+    "name": "Cake",
+    "image": "cake.png",
+    "description": "Type B Cake",
+    "price": 80
+  },
+  {
+    "name": "Pancake",
+    "image": "pancake.png",
+    "description": "Type B Pancake",
+    "price": 200
+  },
+  {
+    "name": "Flour",
+    "image": "flour.png",
+    "description": "Type B Flour",
+    "price": 10
+  },
+  {
+    "name": "Meat",
+    "image": "meat.png",
+    "description": "Type B Meat",
+    "price": 100
+  },
+  {
+    "name": "Sirloin",
+    "image": "sirloin.png",
+    "description": "Type B Sirloin",
+    "price": 250
+  },
+  {
+    "name": "Smoked Bacon",
+    "image": "smoked_bacon.png",
+    "description": "Type B Smoked Bacon",
+    "price": 350
+  },
+  {
+    "name": "Packaged Meat",
+    "image": "packaged_meat.png",
+    "description": "Type B Packaged Meat",
+    "price": 500
+  },
+  {
+    "name": "Package",
+    "image": "package.png",
+    "description": "Type B Package",
+    "price": 20
+  },
+  {
+    "name": "Milk",
+    "image": "milk.png",
+    "description": "Type B Milk",
+    "price": 1000
+  },
+  {
+    "name": "Sour Cream",
+    "image": "sour_cream.png",
+    "description": "Type B Sour Cream",
+    "price": 1500
+  },
+  {
+    "name": "Butter",
+    "image": "butter.png",
+    "description": "Type B Butter",
+    "price": 2500
+  },
+  {
+    "name": "Cheese",
+    "image": "cheese.png",
+    "description": "Type B Cheese",
+    "price": 5000
+  },
+  {
+    "name": "Leaven",
+    "image": "leaven.png",
+    "description": "Type B Leaven",
+    "price": 30
+  },
+  {
+    "name": "Plume",
+    "image": "plume.png",
+    "description": "Type B Plume",
+    "price": 7000
+  },
+  {
+    "name": "Fan",
+    "image": "fan.png",
+    "description": "Type B Fan",
+    "price": 14000
+  },
+  {
+    "name": "Plume Hat",
+    "image": "plume_hat.png",
+    "description": "Type B Plume Hat",
+    "price": 30000
+  },
+  {
+    "name": "Carnival Dress",
+    "image": "carnival_dress.png",
+    "description": "Type B Carnival Dress",
+    "price": 60000
+  },
+  {
+    "name": "Hat",
+    "image": "hat.png",
+    "description": "Type B Hat",
+    "price": 35
+  },
+  {
+    "name": "Textile",
+    "image": "textile.png",
+    "description": "Type B Textile",
+    "price": 40
+  }
+]
