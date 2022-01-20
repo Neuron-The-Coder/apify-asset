@@ -1,0 +1,132 @@
+[
+  {
+    "ID": 1,
+    "general_name": "Cheese",
+    "image": "cheese"
+  },
+  {
+    "ID": 2,
+    "general_name": "Pepperoni",
+    "image": "pepperoni"
+  },
+  {
+    "ID": 3,
+    "general_name": "Anchovy",
+    "image": "anchovy"
+  },
+  {
+    "ID": 4,
+    "general_name": "Mushroom",
+    "image": "mushroom"
+  },
+  {
+    "ID": 5,
+    "general_name": "Olive",
+    "image": "olive"
+  },
+  {
+    "ID": 6,
+    "general_name": "Meatball",
+    "image": "meatball"
+  },
+  {
+    "ID": 7,
+    "general_name": "Shrimp",
+    "image": "shrimp"
+  },
+  {
+    "ID": 8,
+    "general_name": "Pineapple",
+    "image": "pineapple"
+  },
+  {
+    "ID": 9,
+    "general_name": "Bacon",
+    "image": "bacon"
+  },
+  {
+    "ID": 10,
+    "general_name": "Chicken Wing",
+    "image": "chicken_wing"
+  },
+  {
+    "ID": 11,
+    "general_name": "Donut",
+    "image": "donut"
+  },
+  {
+    "ID": 12,
+    "general_name": "Banana",
+    "image": "banana"
+  },
+  {
+    "ID": 13,
+    "general_name": "Crab",
+    "image": "crab"
+  },
+  {
+    "ID": 14,
+    "general_name": "Peanut",
+    "image": "peanut"
+  },
+  {
+    "ID": 15,
+    "general_name": "Ice Cube",
+    "image": "ice_cube"
+  },
+  {
+    "ID": 16,
+    "general_name": "Egg",
+    "image": "egg"
+  },
+  {
+    "ID": 17,
+    "general_name": "Sausage",
+    "image": "sausage"
+  },
+  {
+    "ID": 18,
+    "general_name": "Caviar",
+    "image": "caviar"
+  },
+  {
+    "ID": 19,
+    "general_name": "Chocolate",
+    "image": "chocolate"
+  },
+  {
+    "ID": 20,
+    "general_name": "Eggplant",
+    "image": "eggplant"
+  },
+  {
+    "ID": 21,
+    "general_name": "Lobster",
+    "image": "lobster"
+  },
+  {
+    "ID": 22,
+    "general_name": "Black Bean",
+    "image": "black_bean"
+  },
+  {
+    "ID": 23,
+    "general_name": "Fries",
+    "image": "fries"
+  },
+  {
+    "ID": 24,
+    "general_name": "Green Cheese",
+    "image": "green_cheese"
+  },
+  {
+    "ID": 25,
+    "general_name": "Taco",
+    "image": "taco"
+  },
+  {
+    "ID": 26,
+    "general_name": "Pumpkin",
+    "image": "pumpkin"
+  }
+]
