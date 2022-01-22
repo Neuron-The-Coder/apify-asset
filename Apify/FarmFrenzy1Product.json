@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Egg",
+    "image": "egg.png",
+    "description": "Type C Egg",
+    "price": 10
+  },
+  {
+    "name": "Dried Eggs",
+    "image": "dried_eggs.png",
+    "description": "Type C Dried Eggs",
+    "price": 20
+  },
+  {
+    "name": "Cake",
+    "image": "cake.png",
+    "description": "Type C Cake",
+    "price": 80
+  },
+  {
+    "name": "Wool",
+    "image": "wool.png",
+    "description": "Type C Wool",
+    "price": 100
+  },
+  {
+    "name": "Thread",
+    "image": "thread.png",
+    "description": "Type C Thread",
+    "price": 200
+  },
+  {
+    "name": "Textile",
+    "image": "textile.png",
+    "description": "Type C Textile",
+    "price": 800
+  },
+  {
+    "name": "Milk",
+    "image": "milk.png",
+    "description": "Type C Milk",
+    "price": 1000
+  },
+  {
+    "name": "Butter",
+    "image": "butter.png",
+    "description": "Type C Butter",
+    "price": 2000
+  },
+  {
+    "name": "Cheese",
+    "image": "cheese.png",
+    "description": "Type C Cheese",
+    "price": 8000
+  }
+]
