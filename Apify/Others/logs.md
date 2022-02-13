@@ -1,15 +1,10 @@
 # Version Logs
 
-## Beta 0.3 (UNKNOWN)
-
-* Adding suggestion
-* Adding new API
-
 ## Alpha 0.2 (2 February 2022)
 
 * Documentation was added explaining the URL, parameters, and results.
 * Demo page added with results rendered on table and image displayed instead of URL only
-* Suggestion page added with a functionality to send suggestion
+* Dark Mode to comfort your eyes
 
 ## Alpha 0.1 (27 January 2022)
 
