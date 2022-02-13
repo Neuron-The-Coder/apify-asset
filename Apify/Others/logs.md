@@ -1,5 +1,10 @@
 # Version Logs
 
+## Alpha 0.3 (14 February 2022)
+
+* Happy Valentine :D
+* Upgrading to Laravel 9
+
 ## Alpha 0.2 (13 February 2022)
 
 * Documentation was added explaining the URL, parameters, and results.
