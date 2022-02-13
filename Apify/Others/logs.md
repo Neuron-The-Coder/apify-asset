@@ -1,6 +1,6 @@
 # Version Logs
 
-## Alpha 0.2 (2 February 2022)
+## Alpha 0.2 (13 February 2022)
 
 * Documentation was added explaining the URL, parameters, and results.
 * Demo page added with results rendered on table and image displayed instead of URL only
