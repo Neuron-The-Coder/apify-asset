@@ -1245,7 +1245,7 @@
 	{
 		"id": 114,
 		"name": "Wooly Chaps",
-		"image": "wolly_chaps",
+		"image": "wooly_chaps",
 		"category": "Processed",
 		"price": 309,
 		"raw": 0,
@@ -1553,7 +1553,7 @@
 	{
 		"id": 142,
 		"name": "Wheat Bundle",
-		"image": "wheat_bundles",
+		"image": "wheat_bundle",
 		"category": "Processed",
 		"price": 50,
 		"raw": 0,
@@ -1695,8 +1695,8 @@
 	},
 	{
 		"id": 155,
-		"name": "Shepheard's Pie",
-		"image": "shepheards_pie",
+		"name": "Shepherd's Pie",
+		"image": "shepherds_pie",
 		"category": "Processed",
 		"price": 280,
 		"raw": 0,
