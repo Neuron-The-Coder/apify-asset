@@ -1,5 +1,12 @@
 # Version Logs
 
+## Beta 0.5 (10 March 2022)
+
+* Overhaul to the new and fresh website
+* Adding new API/Datasets (Read the docs :D)
+  * Hayday
+  * Farm Frenzy 3 Products
+
 ## Alpha 0.3 (14 February 2022)
 
 * Happy Valentine :D
