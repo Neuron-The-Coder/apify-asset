@@ -2,7 +2,7 @@
 
 ## Beta 0.5 (10 March 2022)
 
-* Overhaul to the new and fresh website
+* New and fresh design to the website [Responsive version coming soon]
 * Adding new API/Datasets (Read the docs :D)
   * Hayday
   * Farm Frenzy 3 Products

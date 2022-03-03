@@ -7,5 +7,5 @@
   * [The Sims Bustin Out Jobs](#api-the-sims-bustin-out-jobs)
   * [Pizza Frenzy Toppings](#api-pizza-frenzy-toppings)
   * [Farm Frenzy Products](#api-farm-frenzy-products)
-* [Suggestion](#suggestion)
+  * [Hayday](#api-hayday)
 * [Final Thanks](#final-thanks)

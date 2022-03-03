@@ -163,6 +163,76 @@ Supports POST and GET
   * If true / 1, the order will be random
 * `limit : int`
   * Limits the product amount
+  
+<h2 id="hayday">Hayday</h2>
+
+### Description
+
+**APPLIES TO EVERY FARM FRENZY PRODUCTS**
+
+Retrieved from one of Supercell's greatest game. I am still playing this game to this day.
+
+### Route
+
+`https://apify-app.herokuapp.com/api/hayday/{a}/{b}` <br>
+Supports POST and GET
+
+### Subroute
+
+This will explains on how dynamic route will change the output for this API
+
+* Empty or `products`
+  * Returns all of the products
+  * Additional parameter supported
+    * `id`
+    * `name`
+    * `category`
+    * `min_{price | time | level | xp}`
+    * `max_{price | time | level | xp}`
+    * `random`
+    * `limit`
+  
+* `buildings`
+  * Returns all of the buildings
+  * Additional parameter supported
+    * `id`
+    * `name`
+    * `min_{price | time | level}`
+    * `max_{price | time | level}`
+    * `random`
+    * `limit`
+  
+* `ingredient/{id : int | name : string}`
+  * Returns the recipe of the products. You can replace the `id` and `name` to be using parameters.
+  * If using `name`, it will search for products name for the recipe. It is case insensitive and can be written in `snake_case` or `normal case`
+  * Additional parameter supported
+    * `random`
+    * `limit`
+
+* `producer/{id : int | name : string}`
+  * Returns the producer of the products
+  * If using `name`, it will search for products name for the recipe. It is case insensitive and can be written in `snake_case` or `normal case`
+
+### Parameter
+
+* `empty`
+  * Return all the rows unfiltered
+* `id : int`
+  * Return the row with specific ID
+* `category : string`
+  * Return the row with specific category available
+* `name : string`
+  * Return the products with the exact name or with the matching pattern
+* `min : int`
+  * Return the products with attribute above min (inclusive)
+  * If mentioned, you need to add additional info to this param (e.g. min_price or min_xp)
+* `max : int`
+  * Return the products with attribut below max (inclusive)
+  * If mentioned, you need to add additional info to this param (e.g. max_price or max_xp)
+* `random : [ 0 | 1 ]`
+  * If true / 1, the order will be random
+* `limit : int`
+  * Limits the result amount
 
 <!-- <h1 id="suggestion">Suggestion</h1>
 
