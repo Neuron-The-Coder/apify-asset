@@ -164,7 +164,7 @@ Supports POST and GET
 * `limit : int`
   * Limits the product amount
   
-<h2 id="hayday">Hayday</h2>
+<h2 id="api-hayday">Hayday</h2>
 
 ### Description
 
